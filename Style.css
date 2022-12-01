@@ -1,5 +1,5 @@
 body {
-  background: light yellow;
+  background: yellow;
 }
 
 form label {
@@ -7,13 +7,12 @@ form label {
   font-size: 20px;
 }
 
-form imput {
-  display: block;le
+form input {
+  display: block;
   font-size: 20px;
   background: black;
   color: blue;
   
-  <table>
   
     td {
       border: 1px solid #000000;
@@ -27,4 +26,3 @@ form imput {
     
           }
 
-</table>
